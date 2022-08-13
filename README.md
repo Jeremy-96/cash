@@ -46,7 +46,7 @@ open cash.c
 make cash
 ```
 
-You can see a new file in the folder project called cash. This is an execution file that will allow the program to run, but don't worry about this file.
+You can see a new file in the folder project called ***cash***. This is an execution file that will allow the program to run, but don't worry about this file.
 ***After each modifications do this command, she's update your new mario file executor***
 
 ### **Usage**  
@@ -135,8 +135,7 @@ Project Link: https://github.com/Jeremy-96/cash
 
 
 ### **Conclusion**
-
-It reminds me of my childhood, when I played this game on NES :smile:  
+Money exchange has no secrets for me :dollar:
 On the way to the next step :soon:
 
 
